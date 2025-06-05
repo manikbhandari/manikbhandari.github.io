@@ -36,12 +36,7 @@
       "startDate": "2019-08-01",
       "endDate": "2020-02-07",
       "score": "4.0",
-      "courses": [
-        "Machine Learning",
-        "ML with Large Datasets",
-        "Multilingual NLP",
-        "Cloud Computing"
-      ]
+      "courses": ["Machine Learning", "ML with Large Datasets", "Multilingual NLP", "Cloud Computing"]
     },
     {
       "institution": "Birla Institute of Technology and Science, Pilani",

@@ -9,11 +9,11 @@ last_name: Bhandari
 email: mbhandar@alumni.cmu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Manik Bhandari's website.
-footer_text: 
+footer_text:
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -78,7 +78,7 @@ google_analytics: UA-155166043-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # your blog must have a name for it to show up in the nav bar
+blog_name: # your blog must have a name for it to show up in the nav bar
 blog_description: My thoughts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -377,12 +377,12 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  true
-enable_mansory:           true
-enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          false
-show_social_icons:        false
+enable_google_analytics: true
+enable_mansory: true
+enable_math: true
+enable_tooltips: false
+enable_darkmode: false
+show_social_icons: false
 
 # -----------------------------------------------------------------------------
 # Library versions
