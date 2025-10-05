@@ -79,8 +79,8 @@ google_analytics: UA-155166043-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: My thoughts
-permalink: /blog/:year/:title/
+blog_description: # My thoughts
+permalink: # /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -88,7 +88,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false # true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -198,6 +198,7 @@ exclude:
   - _posts/2022-*.md
   - _posts/2023-*.md
   - _posts/2024-*.md
+  - _posts/2025-*.md
 keep_files:
   - CNAME
   - .nojekyll
